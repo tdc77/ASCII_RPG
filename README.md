@@ -5,4 +5,5 @@ This is a continuation of ORK_Slayers ASCII RPG series on youtube.  https://www.
 
 I have added weapons, more enemies, levels and ATK buffs.  Its not fully complete as it needs some in between items and better engame.
 
-Update 4-11-25: fixed file dependency issue
+Update 4-11-25: fixed file dependency issue, added megapotion functionality, added at level 6 all monsters can spwan.
+working on boss next and maybe more weps or quest.
